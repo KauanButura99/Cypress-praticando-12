@@ -1,6 +1,6 @@
 
 # Teste e2e 
-Teste Web e2e na loja EBAC- SHOP. Foram usados comandos customizados para interagir com os seletores do email e senha na aba "Login" e campos de email, senha, nome e sobrenome na aba Pré-Cadastro da página. Page Objects foi usado para interagir com campos na parte de endereço de entrega do produto.
+Teste Web e2e na loja EBAC- SHOP. Foram usados comandos customizados para interagir com os seletores do email e senha na aba "Login".E campos de email, senha, nome e sobrenome na aba Pré-Cadastro da página. Page Objects foi usado para interagir com campos na parte de endereço de entrega do produto.
  
 
 
